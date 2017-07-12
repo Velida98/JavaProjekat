@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class gh {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double prosjek=a+b+c/3;
+		int a,b,c;
+		double a=unos.nextDouble();
+		double a=unos.nextDouble();
+		double a=unos.nextDouble();
+		Scanner unos= new Scanner(System.in);
+		System.out.println("Unesite tri broja:");
+		
+		System.out.println("Vrijednost je: "+prosjek);
+
+	}
+
+}
